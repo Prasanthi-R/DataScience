@@ -18,6 +18,6 @@ Listing down the python executables .py files and the respective csv files
 
 Replace the path of the csv files before executing the .py files
 
-Sample Command to execute the .py files
+Sample Command to execute the .py files from command line
 * python3 customer_churn.py
 
