@@ -5,7 +5,7 @@
   * Game_Sales.py - Game_Sales.scv
   * Gender_Prediction.py - Gender_Prediction.csv
 
-# Replace the path of the csv files in .py files before executing.
+# Replace the path of the csv files in .py files before executing
 
 # Sample Command to execute the .py files from command line
   * python3 customer_churn.py
