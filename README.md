@@ -3,9 +3,9 @@
 Install Python 3, and it comes with many helpful analytics libraries installed
  For example, sample helpful packages to load
 
-import numpy as np # linear algebra
-import pandas as pd # data processing, CSV file I/O (e.g. pd.read_csv)
-from sklearn.linear_model import LinearRegression# for importing linear regression model
+*import numpy as np # linear algebra
+*import pandas as pd # data processing, CSV file I/O (e.g. pd.read_csv)
+*from sklearn.linear_model import LinearRegression# for importing linear regression model
 
 # How to read and execute the .py files in the repo.
 
